@@ -1,0 +1,13 @@
+# Ignore data files
+collection.tar.gz
+preprocessed_data.json
+collection.tsv
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore Python-related files
+__pycache__/
+*.pyc
+*.pyo
