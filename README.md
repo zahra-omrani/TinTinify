@@ -1,4 +1,4 @@
-This notebook, titled "Tintinify", is an information retrieval system. The name was inspired by the curious and adventurous spirit of Tintin.This project represents the culmination of my learnings during the IRCV course at UNIPI, taught by Professor Nicola Tonnellote during my Master’s studies. Tintinify is engineered for efficient exploration and indexing of large-scale datasets, capable of processing gigabytes of documents to deliver accurate and meaningful search results.
+This notebook, titled "Tintinify", is an information retrieval system. The name was inspired by the curious and adventurous spirit of Tintin.This project represents the culmination of my learnings during the IRCV course at UNIPI, taught by Professor Nicola Tonellotto during my Master’s studies. Tintinify is engineered for efficient exploration and indexing of large-scale datasets, capable of processing gigabytes of documents to deliver accurate and meaningful search results.
 
 ### Key Features:
 - **Document Preprocessing:** Implements robust methods for cleaning, normalizing, and tokenizing documents to prepare them for indexing.
