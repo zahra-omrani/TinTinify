@@ -1,13 +1,8 @@
-# Tintinify
+This notebook, titled "Tintinify", is an information retrieval system. The name was inspired by the curious and adventurous spirit of Tintin.This project represents the culmination of my learnings during the IRCV course at UNIPI, taught by Professor Nicola Tonnellote during my Master’s studies. Tintinify is engineered for efficient exploration and indexing of large-scale datasets, capable of processing gigabytes of documents to deliver accurate and meaningful search results.
 
-Tintinify is an information retrieval system inspired by the curious and adventurous spirit of Tintin. Designed for efficient exploration of large-scale datasets, Tintinify processes and indexes gigabytes of documents to deliver accurate and meaningful search results.
+### Key Features:
+- **Document Preprocessing:** Implements robust methods for cleaning, normalizing, and tokenizing documents to prepare them for indexing.
+- **Advanced Indexing Structures:** Constructs efficient data structures such as an inverted index, direct index, and lexicon to enable fast and accurate document retrieval.
+- **BM25 Scoring:** Utilizes the BM25 algorithm to rank documents based on their relevance to a query.
+- **DAAT Algorithm:** Applies the Document-At-A-Time (DAAT) approach for efficient query processing across large datasets.
 
-## Features
-
-- **Advanced Preprocessing**: Handles raw datasets with multilingual and non-ASCII text, removing noise and normalizing content.
-- **Scalable Indexing**: Efficiently builds and manages indices for datasets with millions of documents.
-- **Intuitive Search**: Retrieves relevant documents using state-of-the-art ranking algorithms.
-- **Customizable Pipelines**: Supports extensions for stopword removal, stemming, and other text processing features.
-- **Exploratory Focus**: Enables seamless navigation and discovery of information.
-
-Embark on a journey to uncover valuable insights with Tintinify. Let the spirit of curiosity guide you! 🚀
